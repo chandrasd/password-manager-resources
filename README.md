@@ -97,3 +97,4 @@ If you have any questions you'd like to ask publicly, please [raise a GitHub iss
 ## Project Governance and Contact
 
 At the moment, merging a pull request requires approval by a project owner. If you or your organization is interested in becoming a project co-owner, ideally after contributing, please do get in touch! You can reach the project maintainers at Apple by [emailing password-manager-resources-maintainers@apple.com](mailto:password-manager-resources-maintainers@apple.com).
+
